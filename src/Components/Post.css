@@ -1,0 +1,21 @@
+.Main_Form{
+    margin:0;
+    position:relative;
+}
+
+.Form{
+    background-color: rgb(191, 191, 238);
+    width:100vw;
+    min-height: 100vh;
+    text-align: center;
+}
+
+.Form h2{
+     margin-top:10px;
+     text-align: center;
+}
+
+.Form .form-control {
+  width: 40% !important;
+  margin-left: 30%;
+}

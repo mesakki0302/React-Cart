@@ -1,0 +1,30 @@
+.product-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+}    
+
+.card{
+    border: 1px solid black;
+    border-radius: 10px;
+    height:90vh;
+    width:30vw;
+    justify-content: space-between;
+ 
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.card-body img{
+  width: 20vw;
+  height: 40vh;
+  align-self: center;
+}
+

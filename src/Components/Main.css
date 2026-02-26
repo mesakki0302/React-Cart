@@ -1,0 +1,36 @@
+/* .Main_All{
+    width:100vw;
+    height:90vh;
+    background-color: white;
+    position:relative
+} 
+
+.Main_2{
+    position:absolute;
+    right:0px;
+}
+
+.Main_2 img{
+    width:50vw;
+    height:fit-content;
+}
+
+.Main_1{
+    margin:0;
+    padding: 0;
+    position: absolute;
+    border: 1px solid white;
+    top:10px;
+    left:10px;
+}
+
+.Main_1 img{
+    width:30vw;
+    height:40vh;
+
+}
+
+.Main_1 h1{
+    overflow:hidden; 
+
+} */
