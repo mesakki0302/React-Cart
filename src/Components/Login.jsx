@@ -71,7 +71,7 @@ function Login() {
         navigate("/Product");
         }
         catch(err){
-          alert(err.response?.data?.message||'Login Failed')
+          alert(err.response?.data?.message||'Login Details Failed')
         }
        }
   };
